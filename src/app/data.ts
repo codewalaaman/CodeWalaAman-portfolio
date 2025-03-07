@@ -77,7 +77,7 @@ export const constant = {
         {
             id: 1,
             name:"Github",
-            link: "https://github.com/Amanpawar1210"
+            link: "https://github.com/codewalaaman"
         },
         {
             id: 2,
